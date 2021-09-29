@@ -18,3 +18,8 @@ paper dataset:
 An Underwater Image Enhancement Benchmark Dataset and Beyond
 https://paperswithcode.com/paper/an-underwater-image-enhancement-benchmark/review/
 https://paperswithcode.com/paper/an-underwater-image-enhancement-benchmark
+
+enhancement papers:
+https://www.hindawi.com/journals/mpe/2020/8472875/
+https://www.techscience.com/cmc/v69n2/43883/html
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9273043
