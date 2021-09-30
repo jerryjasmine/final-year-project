@@ -1,6 +1,13 @@
 # final-year-project
 final year project
 # NO REFERENCE UNDERWATER IMAGE QUALITY ENHANCEMENT USING ACTIVE INFERENCE FOR DEEP-SEA DEBRIS DETECTION
+underwater gan
+https://colab.research.google.com/drive/1S1M_cusiqi1Vi4Z0Ebhtf9aOaPA4aHHi#scrollTo=oAVyDJYDG1Ug
+gan
+https://colab.research.google.com/drive/1mo4owLG95Gi4x0flfh4MIIkTduoEyrZR?usp=sharing
+wgan
+https://colab.research.google.com/drive/18w_pdcx_vFRSlZM3Nb8FI1yXzlfwC8fr?usp=sharing
+
  dataset:
  https://conservancy.umn.edu/handle/11299/214865
 
