@@ -1,4 +1,3 @@
-https://drive.google.com/drive/folders/1IOOSeM5CLy3pElmHZylyYvq7i_pJpevh?usp=sharing
 
 # final-year-project
 final year project
