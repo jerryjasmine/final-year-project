@@ -1,0 +1,35 @@
+1-tf.pad()
+https://www.tensorflow.org/api_docs/python/tf/pad
+
+2-tf.clip_by_value()
+https://www.tensorflow.org/api_docs/python/tf/clip_by_value
+
+3-tf.constant_initializer()
+https://www.tensorflow.org/api_docs/python/tf/constant_initializer
+
+4-Instance Normalisation/Diff between diff types of normalisations:
+https://stackoverflow.com/questions/45463778/instance-normalisation-vs-batch-normalisation
+https://pytorch.org/docs/stable/generated/torch.nn.InstanceNorm2d.html
+
+5-How to Develop a Wasserstein Generative Adversarial Network (WGAN) From Scratch
+https://machinelearningmastery.com/how-to-code-a-wasserstein-generative-adversarial-network-wgan-from-scratch/
+
+6-How to Implement Wasserstein Loss for Generative Adversarial Networks
+https://machinelearningmastery.com/how-to-implement-wasserstein-loss-for-generative-adversarial-networks/
+
+7-GAN-Wasserstein GAN and WGAN-GP
+https://jonathan-hui.medium.com/gan-wasserstein-gan-wgan-gp-6a1a2aa1b490
+
+8-Example model code->WGAN-GP
+https://github.com/EmilienDupont/wgan-gp/blob/master/models.py
+
+9-Active Inference Article
+https://www.kaggle.com/charel/learn-by-example-active-inference-in-the-brain-1
+
+10-Difference between SAME and VALID padding
+https://stackoverflow.com/questions/37674306/what-is-the-difference-between-same-and-valid-padding-in-tf-nn-max-pool-of-t
+
+11-tf.squeeze()
+https://www.tensorflow.org/api_docs/python/tf/squeeze
+
+
